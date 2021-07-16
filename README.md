@@ -9,11 +9,11 @@
 #### This is my *university* Github. For my personal Github, [click here](https://github.com/DulapahV)!
 ---
 
-**🔍 Who am I 🔎**
+### 🔍 Who am I 🔎
 
 I am a year 1 student in software engineering at KMITL. There are lots of things for me to learn and discover, but I will always try my best! 
 
-**👨 A little bit about myself 🎮**
+### 👨 A little bit about myself 🎮
 
 - 💭 My personality type is INTJ-T
 - 😻 I love cute stuffs (neko, maid, etc.)
@@ -21,9 +21,7 @@ I am a year 1 student in software engineering at KMITL. There are lots of things
 - 🎵 I enjoy listening to jazz, kawaii EDM, piano (also was a pianist), future bass, nightcore, etc.
 - 🎮 I like to play rhythm game, VN, FPS, MC
 
-</br>
-
-**📈 My GitHub Stats 📊**
+### 📈 My GitHub Stats 📊
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DulapahKMITL)
 
