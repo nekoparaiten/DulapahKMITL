@@ -6,7 +6,7 @@
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/n0miya/)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31gh2o2edagehgvasq4ov3perrtm?si=b17fba3c6c174f3d)
 
-#### This is my *university* Github. For my personal Github, [click here](https://github.com/DulapahV)!
+#### This is my *university* Github. For my personal Github profile, [click here](https://github.com/DulapahV)!
 ---
 
 ### 🔍 Who am I 🔎
@@ -24,7 +24,6 @@ I am a year 1 student in software engineering at KMITL. There are lots of things
 ### 📈 My GitHub Stats 📊
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DulapahKMITL)
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DulapahKMITL&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulapahKMITL&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
