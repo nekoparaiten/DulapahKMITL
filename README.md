@@ -26,5 +26,5 @@ I am a year 1 student in software engineering at KMITL. There are lots of things
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DulapahKMITL)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DulapahKMITL&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulapahKMITL&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulapahKMITL&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
