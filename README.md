@@ -23,7 +23,7 @@ I am a year 1 student in software engineering at KMITL. There are lots of things
 
 ### 📈 My GitHub Stats 📊
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DulapahKMITL)
+![Visitor Badge](https://komarev.com/ghpvc/?username=DulapahKMITL&color=blue&label=VISITORS+COUNT&style=flat-square)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DulapahKMITL&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulapahKMITL&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=dracula"/>
