@@ -15,6 +15,7 @@ I am a year 1 student in software engineering at KMITL. There are lots of things
 
 ### 👨 A little bit about myself 🎮
 
+- 📕 You can view my portfolio [here](https://DulapahV.github.io)!
 - 💭 My personality type is INTJ-T
 - 😻 I love cute stuffs (neko, maid, etc.)
 - 💻 I have strong enthusiast in coding and technology stuffs
